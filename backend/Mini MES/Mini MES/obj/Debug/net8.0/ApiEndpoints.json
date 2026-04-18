@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "MiniMES.Controllers.DashboardController",
+    "Method": "GetEquipmentStatus",
+    "RelativePath": "api/dashboard/equipment-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiniMES.Controllers.DashboardController",
+    "Method": "GetRecentAlerts",
+    "RelativePath": "api/dashboard/recent-alerts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiniMES.Controllers.DashboardController",
+    "Method": "GetRecentRecords",
+    "RelativePath": "api/dashboard/recent-records",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiniMES.Controllers.DashboardController",
+    "Method": "GetSummary",
+    "RelativePath": "api/dashboard/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiniMES.Controllers.ProductionController",
+    "Method": "CreateProductionRecord",
+    "RelativePath": "api/production-record",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MiniMES.DTOs.ProductionRecordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

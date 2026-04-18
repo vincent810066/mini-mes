@@ -1,0 +1,6 @@
+@Mini_MES_HostAddress = http://localhost:5078
+
+GET {{Mini_MES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

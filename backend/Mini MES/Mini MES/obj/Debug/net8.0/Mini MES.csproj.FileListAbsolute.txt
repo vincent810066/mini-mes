@@ -1,0 +1,226 @@
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.csproj.AssemblyReference.cache
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.GeneratedMSBuildEditorConfig.editorconfig
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.AssemblyInfoInputs.cache
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.AssemblyInfo.cs
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.csproj.CoreCompileInputs.cache
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.MvcApplicationPartsAssemblyInfo.cs
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.MvcApplicationPartsAssemblyInfo.cache
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\appsettings.Development.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\appsettings.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.staticwebassets.endpoints.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.exe
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.deps.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.runtimeconfig.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.pdb
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Humanizer.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Npgsql.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.CodeDom.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\scopedcss\bundle\Mini MES.styles.css
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.build.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.development.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.csproj.Up2Date
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\refint\Mini MES.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.pdb
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.genruntimeconfig.cache
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\ref\Mini MES.dll
+C:\林文祥\VScode\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\appsettings.Development.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\appsettings.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.staticwebassets.endpoints.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.exe
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.deps.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.runtimeconfig.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mini MES.pdb
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Humanizer.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Npgsql.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.CodeDom.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.csproj.AssemblyReference.cache
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.AssemblyInfoInputs.cache
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.AssemblyInfo.cs
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.csproj.CoreCompileInputs.cache
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.MvcApplicationPartsAssemblyInfo.cs
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.MvcApplicationPartsAssemblyInfo.cache
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\scopedcss\bundle\Mini MES.styles.css
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.build.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.development.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.csproj.Up2Date
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\refint\Mini MES.dll
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.pdb
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\Mini MES.genruntimeconfig.cache
+C:\test\mini-mes\backend\Mini MES\Mini MES\obj\Debug\net8.0\ref\Mini MES.dll

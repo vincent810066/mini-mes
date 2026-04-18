@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mini MES Dashboard</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <header class="page-header">
+            <h1>Mini MES 即時監控 Dashboard</h1>
+            <p>展示智慧製造資料監控畫面</p>
+        </header>
+        <p id="lastRefreshTime">最後更新：--</p>
+        <!-- 摘要卡片 -->
+        <section class="summary-section">
+            <div class="summary-card">
+                <h2>今日總產量</h2>
+                <p id="todayTotal">--</p>
+            </div>
+            <div class="summary-card">
+                <h2>今日正常數</h2>
+                <p id="todayNormal">--</p>
+            </div>
+            <div class="summary-card">
+                <h2>今日異常數</h2>
+                <p id="todayAbnormal">--</p>
+            </div>
+        </section>
+
+        <!-- 設備狀態 -->
+        <section class="panel">
+            <div class="panel-header">
+                <h2>設備狀態</h2>
+            </div>
+            <div id="equipmentStatusList" class="equipment-grid">
+                <div class="empty-text">載入中...</div>
+            </div>
+        </section>
+
+        <!-- 最近生產紀錄 -->
+        <section class="panel">
+            <div class="panel-header">
+                <h2>最近生產紀錄</h2>
+            </div>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>recordTime</th>
+                            <th>equipmentCode</th>
+                            <th>workOrderNo</th>
+                            <th>serialNo</th>
+                            <th>voltage</th>
+                            <th>temperature</th>
+                            <th>resultStatus</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recentRecordsTableBody">
+                        <tr>
+                            <td colspan="7" class="empty-text">載入中...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- 最近異常紀錄 -->
+        <section class="panel">
+            <div class="panel-header">
+                <h2>最近異常紀錄</h2>
+            </div>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>recordTime</th>
+                            <th>equipmentCode</th>
+                            <th>workOrderNo</th>
+                            <th>serialNo</th>
+                            <th>alertMessage</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recentAlertsTableBody">
+                        <tr>
+                            <td colspan="5" class="empty-text">載入中...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

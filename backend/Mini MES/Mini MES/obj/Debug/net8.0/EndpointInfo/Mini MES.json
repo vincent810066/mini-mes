@@ -1,0 +1,130 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Mini MES",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/dashboard/summary": {
+      "get": {
+        "tags": [
+          "Dashboard"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/dashboard/equipment-status": {
+      "get": {
+        "tags": [
+          "Dashboard"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/dashboard/recent-records": {
+      "get": {
+        "tags": [
+          "Dashboard"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/dashboard/recent-alerts": {
+      "get": {
+        "tags": [
+          "Dashboard"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/production-record": {
+      "post": {
+        "tags": [
+          "Production"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductionRecordRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductionRecordRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProductionRecordRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ProductionRecordRequest": {
+        "required": [
+          "equipmentCode",
+          "recordTime",
+          "serialNo",
+          "temperature",
+          "voltage",
+          "workOrderNo"
+        ],
+        "type": "object",
+        "properties": {
+          "equipmentCode": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "workOrderNo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "serialNo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "voltage": {
+            "type": "number",
+            "format": "double"
+          },
+          "temperature": {
+            "type": "number",
+            "format": "double"
+          },
+          "recordTime": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
